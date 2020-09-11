@@ -1,2 +1,2 @@
 [webservers]
-34.230.56.103 ansible_user=centos 
+18.205.157.93 ansible_user=centos 
